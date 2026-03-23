@@ -1,5 +1,8 @@
 # go-projects-template
 
+## Coverage 
+![Coverage](https://codecov.io/gh/gatogato999/go-projects-template/branch/main/graph/badge.svg)
+
 ### Setting Up linters
 
 ``` bash
